@@ -1,0 +1,12 @@
+
+path: ../dataset  
+train: images 
+val: images 
+
+
+# Classes
+nc: 3
+names: [
+'Clock',
+'Glasses',
+'Mug']  
