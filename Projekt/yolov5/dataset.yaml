@@ -1,7 +1,7 @@
-
+#Dataset
 path: ../dataset  
-train: images 
-val: images 
+train: images/images_train 
+val: images/images_test
 
 
 # Classes
